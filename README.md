@@ -1,4 +1,4 @@
-# GitHub練習用レポジトリ
+# GitHub練習用リポジトリ
 
 ## feature/review-READMEブランチが編集
 - hoge
