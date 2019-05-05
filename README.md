@@ -5,3 +5,18 @@
     - hogehoge
 - foo
     - foofoo
+
+## rebaseを練習するためにわざとスペルミス
+- hogehoge
+    - foo
+
+## hoge
+
+### hogehoge
+- hogehoge
+- hoge
+
+### hogehoge
+- hogehoge
+- hoge
+
